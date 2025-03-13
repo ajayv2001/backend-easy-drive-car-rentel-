@@ -6,7 +6,7 @@
 
 1. Clone the repository:
    ###
-   git clone https://github.com/yourusername/easy-drive-backend.git
+   git clone https://github.com/ajayv2001/backend-easy-drive-car-rentel-
    cd easy-drive-backend
    ###
 2. Install dependencies:
