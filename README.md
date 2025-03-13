@@ -82,11 +82,4 @@ Easy Drive is a car rental platform that allows users to search for rental cars 
 - Dockerizing Redis
 - Deployment setup
 
-## Contributing
-
-Feel free to fork this project and contribute by submitting a pull request.
-
-## License
-
-This project is licensed under the MIT License.
 
