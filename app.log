@@ -117,3 +117,12 @@
 {"level":"\u001b[32minfo\u001b[39m","message":"{\"method\":\"POST\",\"url\":\"/api/create-checkout-session\",\"status\":\"200\",\"responseTime\":\"807.843\"}","timestamp":"2025-03-22T10:11:15.308Z"}
 {"level":"\u001b[32minfo\u001b[39m","message":"{\"method\":\"OPTIONS\",\"url\":\"/api/create-checkout-session\",\"status\":\"204\",\"responseTime\":\"0.424\"}","timestamp":"2025-03-22T10:13:22.051Z"}
 {"level":"\u001b[32minfo\u001b[39m","message":"{\"method\":\"POST\",\"url\":\"/api/create-checkout-session\",\"status\":\"200\",\"responseTime\":\"815.749\"}","timestamp":"2025-03-22T10:13:22.875Z"}
+{"level":"\u001b[32minfo\u001b[39m","message":"{\"method\":\"OPTIONS\",\"url\":\"/api/log-in\",\"status\":\"204\",\"responseTime\":\"3.066\"}","timestamp":"2025-03-22T10:21:36.380Z"}
+{"level":"\u001b[32minfo\u001b[39m","message":"{\"method\":\"POST\",\"url\":\"/api/log-in\",\"status\":\"200\",\"responseTime\":\"271.670\"}","timestamp":"2025-03-22T10:21:36.715Z"}
+{"level":"\u001b[32minfo\u001b[39m","message":"{\"method\":\"GET\",\"url\":\"/api/location?query=paris&pickUpDate=2025-03-23&dropOffDate=2025-03-24&pickUpTime=08:30&dropOffTime=21:30\",\"status\":\"200\",\"responseTime\":\"7184.354\"}","timestamp":"2025-03-22T10:22:29.475Z"}
+{"level":"\u001b[32minfo\u001b[39m","message":"{\"method\":\"OPTIONS\",\"url\":\"/api/create-checkout-session\",\"status\":\"204\",\"responseTime\":\"0.309\"}","timestamp":"2025-03-22T10:22:37.617Z"}
+{"level":"\u001b[32minfo\u001b[39m","message":"{\"method\":\"POST\",\"url\":\"/api/create-checkout-session\",\"status\":\"200\",\"responseTime\":\"912.124\"}","timestamp":"2025-03-22T10:22:38.536Z"}
+{"level":"\u001b[32minfo\u001b[39m","message":"{\"method\":\"OPTIONS\",\"url\":\"/api/create-checkout-session\",\"status\":\"204\",\"responseTime\":\"0.486\"}","timestamp":"2025-03-22T10:24:31.026Z"}
+{"level":"\u001b[32minfo\u001b[39m","message":"{\"method\":\"POST\",\"url\":\"/api/create-checkout-session\",\"status\":\"200\",\"responseTime\":\"690.900\"}","timestamp":"2025-03-22T10:24:31.725Z"}
+{"level":"\u001b[32minfo\u001b[39m","message":"{\"method\":\"OPTIONS\",\"url\":\"/api/create-checkout-session\",\"status\":\"204\",\"responseTime\":\"0.292\"}","timestamp":"2025-03-22T10:25:12.082Z"}
+{"level":"\u001b[32minfo\u001b[39m","message":"{\"method\":\"POST\",\"url\":\"/api/create-checkout-session\",\"status\":\"200\",\"responseTime\":\"552.767\"}","timestamp":"2025-03-22T10:25:12.644Z"}
